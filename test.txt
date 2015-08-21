@@ -1,0 +1,2 @@
+git is a distributed version control has working/stage/branch/remote.
+It is safe to git reset, git checkout -- file. But you are doomed if you git push it to the remote!
